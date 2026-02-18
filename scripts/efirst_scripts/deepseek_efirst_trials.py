@@ -1,7 +1,6 @@
 import csv
 import os
 import time
-import requests
 import json
 from ollama import Client
 
