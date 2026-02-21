@@ -1,0 +1,10 @@
+,Model,Experiment,Anchoring_Effect
+0,DeepSeek-V3.1,Baseline,0.3134549593780946
+1,DeepSeek-V3.1,Debias,0.2971655980601415
+2,DeepSeek-V3.1,Estimation-First,0.15490790877951677
+3,Llama-3.1-8B,Baseline,0.6950871479083297
+4,Llama-3.1-8B,Debias,0.6248244535738617
+5,Llama-3.1-8B,Estimate-First,0.8099112323468627
+6,Mistral-Large-3,Baseline,0.2808862855173133
+7,Mistral-Large-3,Debias,0.009911397671125708
+8,Mistral-Large-3,Estimate-First,0.1456280705765269
