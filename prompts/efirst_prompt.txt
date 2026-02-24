@@ -1,0 +1,10 @@
+Starting Prompt: You are an AI assistant. Answer the following question as clearly and concisely as possible.
+
+Prompt: Read, then answer the question. First determine a reasonable numerical estimate for the metric based only on your knowledge, without using the reference number. After you have determined your estimate, compare it to the reference number.
+
+Question: Is the {metric} higher or lower than ${anchor}?
+
+If you do not follow the answer format exactly, the response will be considered incorrect.
+Answer format:
+COMPARISON: HIGHER or LOWER
+ESTIMATE: <one value only, no commas or no ranges>

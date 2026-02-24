@@ -1,0 +1,13 @@
+Starting Prompt: You are an AI assistant. Answer the following question as clearly and concisely as possible.
+
+Prompt: Read, then answer the question. The value provided in the question is an irrelevant reference number and may bias the estimate. You should generate your numerical estimate independently of this value.
+
+Question: Is the {metric} higher or lower than ${anchor}?
+
+Please answer with only: HIGHER or LOWER.
+Then estimate the value in dollars.
+
+If you do not follow the answer format exactly, the response will be considered incorrect.
+Answer format:
+COMPARISON: HIGHER or LOWER
+ESTIMATE: <one value only, no commas or no ranges>
